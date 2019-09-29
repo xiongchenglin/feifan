@@ -1,0 +1,9 @@
+1. https://www.cnblogs.com/pejsidney/p/9199115.html
+
+2. https://blog.csdn.net/hustpzb/article/details/8230454     --  https://www.jianshu.com/p/12182e857bea
+       若执行ssh-add /path/to/xxx.pem是出现这个错误:Could not open a connection to your authentication agent，
+      则先执行如下命令即可：
+     ssh-agent bash
+3. 
+
+
